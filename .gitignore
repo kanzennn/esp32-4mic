@@ -1,0 +1,13 @@
+# Data rekaman (suara) -- tidak dipublikasikan
+recording/
+recording_cleaned/
+recording_sd/
+wave/
+*.wav
+
+# Konfigurasi lokal editor/asisten
+.claude/
+.idea/
+
+# Dokumen yang belum ditinjau untuk dipublikasikan
+esp32 documentation.pdf
